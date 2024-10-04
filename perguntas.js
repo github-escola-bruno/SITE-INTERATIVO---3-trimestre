@@ -1,26 +1,26 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Matemática',
+    'Qual o valor de π?',
+    'π = 3.14159265359 ou aproximadamente 3.14. '
 )
 
 
 criaCartao(
-    'Geografia',
-    'Qual a caqpital da França?',
-    'A capital da França é Paris'
+    'Estilo de vida',
+    'Por que fazer higine do sono?',
+    'Para obter o melhor desempenho em todas as tarefas do seu dia.'
 )
 
 
 criaCartao(
-    'Proramação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Automobilismo',
+    'Fale sobre a Bugatti Tourbillon',
+    'O Bugatti Tourbillon é um hipercarro de última geração com motor V16 de 8,3 litros, 3 motores elétricos e 1.800 cv de potência. Acelera de 0 a 100 km/h em 2,0 segundos e alcança 445 km/h de velocidade máxima.'
 )
 
 
 criaCartao(
-    'Língua inglesa',
-    'Como se diz oi em inglês?',
-    'Oi em inglês é HI (RAI)'
+    'Estudos',
+    'Como fixar o conteúdo aprendido?',
+    'Estudo frequente, revisão e resolução de exercícios.'
 )
