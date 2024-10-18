@@ -26,7 +26,7 @@ criaCartao(
 criaCartao(
     'Games',
     'Por que o Steve é o mais forte no mundo Minecraft?',
-    'Steve é o mais forte devido a capacidade de usar todos os itens existentes e colocar no inventário de 36 slots todos os itens do jogo, isso, sem citar os extras.'
+    'Steve é o mais forte devido à sua capacidade de usar todos os itens disponíveis e armazenar no inventário de 36 slots todos os itens do jogo, sem contar os extras.'
 )
 
 criaCartao(
