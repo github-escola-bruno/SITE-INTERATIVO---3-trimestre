@@ -11,6 +11,11 @@ criaCartao(
     'Para obter o melhor desempenho em todas as tarefas do seu dia.'
 )
 
+criaCartao(
+    'Estudos',
+    'Como fixar o conteúdo aprendido?',
+    'Estudo frequente, revisão e resolução de exercícios.'
+)
 
 criaCartao(
     'Automobilismo',
@@ -19,8 +24,3 @@ criaCartao(
 )
 
 
-criaCartao(
-    'Estudos',
-    'Como fixar o conteúdo aprendido?',
-    'Estudo frequente, revisão e resolução de exercícios.'
-)
