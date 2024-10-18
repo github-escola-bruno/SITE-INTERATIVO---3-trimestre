@@ -7,7 +7,7 @@ criaCartao(
 
 criaCartao(
     'Estilo de vida',
-    'Por que fazer higine do sono?',
+    'Por que fazer higiene do sono?',
     'Para obter o melhor desempenho em todas as tarefas do seu dia.'
 )
 
