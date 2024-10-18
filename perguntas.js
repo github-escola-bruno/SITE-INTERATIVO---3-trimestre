@@ -26,7 +26,7 @@ criaCartao(
 criaCartao(
     'Games',
     'Por que o Steve é o mais forte no mundo Minecraft?',
-    'De acordo com o vídeo "O QUÃO FORTE É STEVE do MINECRAFT? Bitelo vs Balestrin", Steve é o mais forte devido a capacidade de usar todos os itens do jogo e colocar no inventário de 36 slots todos os itens do jogo.'
+    'Steve é o mais forte devido a capacidade de usar todos os itens existentes e colocar no inventário de 36 slots todos os itens do jogo, isso, sem citar os extras.'
 )
 
 criaCartao(
