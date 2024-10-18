@@ -26,7 +26,7 @@ criaCartao(
 criaCartao(
     'Games',
     'Por que o Steve é o mais forte no mundo Minecraft?',
-    'De acordo com o vídeo "O QUÃO FORTE É STEVE do MINECRAFT? Bitelo vs Balestrin", Steve é o mais forte porque "ele é o protagonista do jogo" e "tem habilidades que outros personagens não têm". Além disso, "ele é o único que pode usar todos os itens do jogo".'
+    'De acordo com o vídeo "O QUÃO FORTE É STEVE do MINECRAFT? Bitelo vs Balestrin", Steve é o mais forte devido a capacidade de usar todos os itens do jogo e colocar no inventário de 36 slots todos os itens do jogo.'
 )
 
 criaCartao(
